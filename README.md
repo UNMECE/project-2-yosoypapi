@@ -1,5 +1,5 @@
 # Project 2
-This project is due 11/25/2024 by 11:59 PM.  No late submissions will be accepted.  All work must be done on your own.  Discussion is encouraged, but your code must be your own.
+This project is due 04/20/2025 by 11:59 PM.  No late submissions will be accepted.  All work must be done on your own.  Discussion is encouraged, but your code must be your own.
 
 # Overview
 In this project, you will demonstrate knowledge of object oriented programming.  You are tasked with designing and implementing a base and two derived classes for tracking students in different degree programs.  Make a base class Student and two derived classes called "Art_Student" and "Physics_Student".  Make the base class contain all variables that you believe will be common between the base class and derived classes (e.g. name).  In total, one should have variables for storing 
